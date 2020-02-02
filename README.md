@@ -1,2 +1,2 @@
-# kawai
-ToDoApp with react-native
+# kawai to do
+kawai ToDoApp made with react-native
